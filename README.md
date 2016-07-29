@@ -8,7 +8,7 @@ https://trac.ffmpeg.org/wiki/CompilationGuide/MacOSX
 From the CLI:
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-<italic>From the CLI:</italic>
+<p>From the CLI:</p>
 brew install ffmpeg
 
 
