@@ -27,8 +27,8 @@ ffmpeg -i video.mp4 -vf scale=-1:720 -qscale:v 3 video_%d.jpg
 <br>
 <h4>Trim a video:</h4>
 ffmpeg -i video.mp4 -ss 00:00:00 -t 00:00:00 -an video_trimmed.mp4
-<h6>-ss start time</h6>
-<h6>-t length of time to copy from the start time</h6>
+<h6>-ss = start time</h6>
+<h6>-t = length of time to copy from the start time</h6>
 <br>
 <br>
 <h4>Crop a video:</h4>
