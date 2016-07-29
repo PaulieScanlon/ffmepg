@@ -1,5 +1,5 @@
-# ffmepg
-ffmpeg settings for various things
+# ffmpeg
+ffmpeg settings for various things.
 <br>
 <br>
 <h4>Here for install instuctions:</h4>
