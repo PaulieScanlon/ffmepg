@@ -4,13 +4,14 @@ ffmpeg settings for various things
 
 <h4>Here for install instuctions:</h4>
 https://trac.ffmpeg.org/wiki/CompilationGuide/MacOSX
-
-From the CLI:
+<br>
+<h6>From the CLI:</h6>
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-<p>From the CLI:</p>
+<br>
+<h6>From the CLI:</h6>
 brew install ffmpeg
-
+<br>
+<br>
 
 
 <h4>Mp4 with bit rate and fixed dimensions:</h4>
